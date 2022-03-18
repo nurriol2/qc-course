@@ -1,3 +1,6 @@
+# ignore the qiskit-textbook materials
+qiskit-textbook/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
